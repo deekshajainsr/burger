@@ -1,0 +1,5 @@
+{
+  "name": "Burger Shop",
+  "description": "A delicious full-stack burger ordering application with menu, cart, and order history.",
+  "requestFramePermissions": []
+}
